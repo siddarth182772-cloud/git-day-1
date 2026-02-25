@@ -1,1 +1,4 @@
 i am a devil of my world
+currently i am learning cloud deployment in the guidence of "OG" mentor "VeeraBabu Narni"
+it's been two months and i have good knowledge about AWS
+
